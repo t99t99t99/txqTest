@@ -1,0 +1,6 @@
+git commit -m "key"
+git add ./
+git status
+git branch
+git push -u origin testDev
+git checkout
